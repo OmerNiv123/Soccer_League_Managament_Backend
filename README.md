@@ -45,11 +45,8 @@ https://app.swaggerhub.com/apis-docs/OmerNiv123/sport-monks_super_league_api/2.0
 
 Alternativly, you can access it locally after cloning this repository, install all dependencies and setting up the Server at http://localhost:3000/api
 
-## .evn 
+## FIFA Representative 
 
-You can find our .env file [here](https://docs.google.com/document/d/1RJ0bNap55gL2a8BELPp7M7AgTLWcI8xjDVzhOjFWtsY/edit?usp=sharing)
-
-* Please note that this file is only visible to <b>BGU Organization Accounts</b>, so be sure to log in first
 
 To access Manager's Functionalities you will have to be logged in as FIFA Representative
 
