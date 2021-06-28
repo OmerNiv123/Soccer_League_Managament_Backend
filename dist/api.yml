@@ -421,6 +421,11 @@ components:
         name: 
           type: string
           example: København
+        imageUrl:
+          pattern: URL
+          type: string
+          description: URL for the team's image
+          example: https://cloudinary.com/
         games:
           type: array
           items:

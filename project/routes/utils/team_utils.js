@@ -38,7 +38,8 @@ async function getAllTeams() {
 
     team_ids_list.push( {
       id: my_team.id,
-      name: my_team.name, 
+      name: my_team.name,
+      imageUrl: my_team.logo_path, 
       games: gamesOfTeam  
     });
   });
