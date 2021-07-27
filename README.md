@@ -1,4 +1,4 @@
-# Assignment 3.2 - Backend
+# Soccer League Managament - Backend
 
 
 Omer Tagger : 207904616
